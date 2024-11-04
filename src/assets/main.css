@@ -1,0 +1,11 @@
+.strikeout {
+    text-decoration: line-through;
+}
+
+.priority {
+    color: orange;
+}
+
+.text-gray {
+    color: gray;
+}
