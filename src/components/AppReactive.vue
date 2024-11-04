@@ -1,7 +1,6 @@
 <script setup>
   import { ref, reactive } from 'vue'
   const state = reactive({ count: 0 })
-  const msg = ref('Hello world!')
   const increment = () => {
     state.count++
   }
